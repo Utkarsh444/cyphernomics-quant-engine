@@ -1,0 +1,10 @@
+ccxt
+pandas
+numpy
+python-dotenv
+aiohttp
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+pytest
